@@ -1,0 +1,26 @@
+styles.css
+
+#founderName {
+	display: inline-block;
+	margin-top: 0px;
+}
+#inputForm{
+	display: inline-block;
+	width: 400px;
+	margin: 30px 10px 0px 10px;
+}
+#addFounder{
+	display: inline-block;
+}
+#founderHeader{
+	display: inline-block;
+	/*height: 60px;
+	width: 200px;*/
+}
+#founderHeader h3 {
+	display: inline-block;
+	margin: 0px;
+}
+#likeTo{
+	margin-bottom: 0px;
+}
